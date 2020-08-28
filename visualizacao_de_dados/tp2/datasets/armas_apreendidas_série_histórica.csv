@@ -1,0 +1,531 @@
+﻿Ano;Espécie;Mês de Data;Número de registros
+2013;Submetralhadora;novembro;3
+2013;Submetralhadora;outubro;8
+2013;Submetralhadora;setembro;1
+2013;Submetralhadora;agosto;2
+2013;Submetralhadora;julho;4
+2013;Submetralhadora;junho;1
+2013;Submetralhadora;maio;2
+2013;Submetralhadora;abril;5
+2013;Submetralhadora;março;6
+2013;Submetralhadora;fevereiro;4
+2013;Submetralhadora;janeiro;5
+2013;Revólver;dezembro;285
+2013;Revólver;novembro;360
+2013;Revólver;outubro;345
+2013;Revólver;setembro;288
+2013;Revólver;agosto;292
+2013;Revólver;julho;293
+2013;Revólver;junho;357
+2013;Revólver;maio;315
+2013;Revólver;abril;355
+2013;Revólver;março;307
+2013;Revólver;fevereiro;321
+2013;Revólver;janeiro;283
+2013;Pistola;dezembro;195
+2013;Pistola;novembro;241
+2013;Pistola;outubro;242
+2013;Pistola;setembro;251
+2013;Pistola;agosto;200
+2013;Pistola;julho;227
+2013;Pistola;junho;225
+2013;Pistola;maio;233
+2013;Pistola;abril;277
+2013;Pistola;março;279
+2013;Pistola;fevereiro;240
+2013;Pistola;janeiro;230
+2013;Outros;dezembro;6
+2013;Outros;novembro;9
+2013;Outros;outubro;6
+2013;Outros;setembro;7
+2013;Outros;agosto;6
+2013;Outros;julho;5
+2013;Outros;junho;12
+2013;Outros;maio;7
+2013;Outros;março;4
+2013;Outros;fevereiro;4
+2013;Outros;janeiro;4
+2013;Metralhadora;novembro;4
+2013;Metralhadora;outubro;6
+2013;Metralhadora;setembro;2
+2013;Metralhadora;agosto;4
+2013;Metralhadora;julho;3
+2013;Metralhadora;junho;3
+2013;Metralhadora;maio;1
+2013;Metralhadora;abril;7
+2013;Metralhadora;março;12
+2013;Metralhadora;fevereiro;9
+2013;Metralhadora;janeiro;7
+2013;Garruchão;outubro;1
+2013;Garruchão;setembro;1
+2013;Garruchão;agosto;1
+2013;Garruchão;julho;2
+2013;Garruchão;maio;1
+2013;Garruchão;fevereiro;2
+2013;Garrucha;dezembro;13
+2013;Garrucha;novembro;12
+2013;Garrucha;outubro;19
+2013;Garrucha;setembro;9
+2013;Garrucha;agosto;9
+2013;Garrucha;julho;7
+2013;Garrucha;junho;11
+2013;Garrucha;maio;15
+2013;Garrucha;abril;15
+2013;Garrucha;março;18
+2013;Garrucha;fevereiro;10
+2013;Garrucha;janeiro;16
+2013;Fuzil;dezembro;20
+2013;Fuzil;novembro;20
+2013;Fuzil;outubro;19
+2013;Fuzil;setembro;36
+2013;Fuzil;agosto;14
+2013;Fuzil;julho;17
+2013;Fuzil;junho;22
+2013;Fuzil;maio;18
+2013;Fuzil;abril;17
+2013;Fuzil;março;27
+2013;Fuzil;fevereiro;26
+2013;Fuzil;janeiro;20
+2013;Espingarda;dezembro;39
+2013;Espingarda;novembro;61
+2013;Espingarda;outubro;66
+2013;Espingarda;setembro;63
+2013;Espingarda;agosto;61
+2013;Espingarda;julho;65
+2013;Espingarda;junho;47
+2013;Espingarda;maio;69
+2013;Espingarda;abril;63
+2013;Espingarda;março;54
+2013;Espingarda;fevereiro;50
+2013;Espingarda;janeiro;40
+2013;Carabina;dezembro;6
+2013;Carabina;novembro;5
+2013;Carabina;outubro;12
+2013;Carabina;setembro;10
+2013;Carabina;agosto;6
+2013;Carabina;julho;6
+2013;Carabina;junho;12
+2013;Carabina;maio;3
+2013;Carabina;abril;8
+2013;Carabina;março;10
+2013;Carabina;fevereiro;10
+2013;Carabina;janeiro;4
+2013;Arma de Fabricação Caseira;dezembro;2
+2013;Arma de Fabricação Caseira;novembro;40
+2013;Arma de Fabricação Caseira;outubro;11
+2013;Arma de Fabricação Caseira;setembro;10
+2013;Arma de Fabricação Caseira;agosto;10
+2013;Arma de Fabricação Caseira;julho;4
+2013;Arma de Fabricação Caseira;junho;2
+2013;Arma de Fabricação Caseira;maio;7
+2013;Arma de Fabricação Caseira;abril;6
+2013;Arma de Fabricação Caseira;março;3
+2013;Arma de Fabricação Caseira;fevereiro;2
+2013;Arma de Fabricação Caseira;janeiro;6
+2014;Submetralhadora;dezembro;7
+2014;Submetralhadora;novembro;1
+2014;Submetralhadora;outubro;3
+2014;Submetralhadora;setembro;3
+2014;Submetralhadora;agosto;3
+2014;Submetralhadora;julho;2
+2014;Submetralhadora;junho;8
+2014;Submetralhadora;maio;8
+2014;Submetralhadora;abril;4
+2014;Submetralhadora;março;4
+2014;Submetralhadora;fevereiro;4
+2014;Submetralhadora;janeiro;10
+2014;Revólver;dezembro;268
+2014;Revólver;novembro;325
+2014;Revólver;outubro;375
+2014;Revólver;setembro;333
+2014;Revólver;agosto;351
+2014;Revólver;julho;289
+2014;Revólver;junho;342
+2014;Revólver;maio;351
+2014;Revólver;abril;308
+2014;Revólver;março;362
+2014;Revólver;fevereiro;348
+2014;Revólver;janeiro;336
+2014;Pistola;dezembro;268
+2014;Pistola;novembro;280
+2014;Pistola;outubro;290
+2014;Pistola;setembro;220
+2014;Pistola;agosto;271
+2014;Pistola;julho;249
+2014;Pistola;junho;273
+2014;Pistola;maio;267
+2014;Pistola;abril;226
+2014;Pistola;março;274
+2014;Pistola;fevereiro;243
+2014;Pistola;janeiro;214
+2014;Outros;dezembro;3
+2014;Outros;novembro;6
+2014;Outros;outubro;8
+2014;Outros;setembro;6
+2014;Outros;agosto;10
+2014;Outros;julho;10
+2014;Outros;junho;5
+2014;Outros;maio;5
+2014;Outros;abril;3
+2014;Outros;março;4
+2014;Outros;fevereiro;7
+2014;Outros;janeiro;9
+2014;Metralhadora;novembro;6
+2014;Metralhadora;outubro;2
+2014;Metralhadora;setembro;6
+2014;Metralhadora;agosto;3
+2014;Metralhadora;julho;3
+2014;Metralhadora;junho;2
+2014;Metralhadora;maio;5
+2014;Metralhadora;abril;1
+2014;Metralhadora;março;8
+2014;Metralhadora;fevereiro;2
+2014;Metralhadora;janeiro;9
+2014;Garruchão;dezembro;1
+2014;Garruchão;outubro;1
+2014;Garruchão;setembro;1
+2014;Garruchão;agosto;4
+2014;Garruchão;junho;2
+2014;Garruchão;maio;1
+2014;Garruchão;abril;2
+2014;Garruchão;março;2
+2014;Garruchão;fevereiro;1
+2014;Garruchão;janeiro;1
+2014;Garrucha;dezembro;9
+2014;Garrucha;novembro;7
+2014;Garrucha;outubro;16
+2014;Garrucha;setembro;16
+2014;Garrucha;agosto;17
+2014;Garrucha;julho;6
+2014;Garrucha;junho;16
+2014;Garrucha;maio;12
+2014;Garrucha;abril;15
+2014;Garrucha;março;18
+2014;Garrucha;fevereiro;13
+2014;Garrucha;janeiro;13
+2014;Fuzil;dezembro;19
+2014;Fuzil;novembro;32
+2014;Fuzil;outubro;42
+2014;Fuzil;setembro;9
+2014;Fuzil;agosto;19
+2014;Fuzil;julho;22
+2014;Fuzil;junho;21
+2014;Fuzil;maio;27
+2014;Fuzil;abril;19
+2014;Fuzil;março;22
+2014;Fuzil;fevereiro;26
+2014;Fuzil;janeiro;21
+2014;Espingarda;dezembro;42
+2014;Espingarda;novembro;62
+2014;Espingarda;outubro;63
+2014;Espingarda;setembro;87
+2014;Espingarda;agosto;58
+2014;Espingarda;julho;65
+2014;Espingarda;junho;88
+2014;Espingarda;maio;62
+2014;Espingarda;abril;59
+2014;Espingarda;março;54
+2014;Espingarda;fevereiro;67
+2014;Espingarda;janeiro;70
+2014;Carabina;dezembro;2
+2014;Carabina;novembro;12
+2014;Carabina;outubro;2
+2014;Carabina;setembro;9
+2014;Carabina;agosto;7
+2014;Carabina;julho;7
+2014;Carabina;junho;8
+2014;Carabina;maio;5
+2014;Carabina;abril;6
+2014;Carabina;março;6
+2014;Carabina;fevereiro;16
+2014;Carabina;janeiro;5
+2014;Arma de Fabricação Caseira;dezembro;3
+2014;Arma de Fabricação Caseira;novembro;7
+2014;Arma de Fabricação Caseira;outubro;11
+2014;Arma de Fabricação Caseira;setembro;6
+2014;Arma de Fabricação Caseira;agosto;3
+2014;Arma de Fabricação Caseira;julho;6
+2014;Arma de Fabricação Caseira;junho;4
+2014;Arma de Fabricação Caseira;maio;4
+2014;Arma de Fabricação Caseira;abril;19
+2014;Arma de Fabricação Caseira;março;5
+2014;Arma de Fabricação Caseira;fevereiro;15
+2014;Arma de Fabricação Caseira;janeiro;8
+2015;Submetralhadora;dezembro;1
+2015;Submetralhadora;novembro;4
+2015;Submetralhadora;outubro;1
+2015;Submetralhadora;agosto;2
+2015;Submetralhadora;julho;3
+2015;Submetralhadora;junho;3
+2015;Submetralhadora;maio;2
+2015;Submetralhadora;abril;9
+2015;Submetralhadora;março;7
+2015;Submetralhadora;fevereiro;6
+2015;Submetralhadora;janeiro;6
+2015;Revólver;dezembro;283
+2015;Revólver;novembro;262
+2015;Revólver;outubro;273
+2015;Revólver;setembro;273
+2015;Revólver;agosto;315
+2015;Revólver;julho;325
+2015;Revólver;junho;278
+2015;Revólver;maio;326
+2015;Revólver;abril;334
+2015;Revólver;março;412
+2015;Revólver;fevereiro;302
+2015;Revólver;janeiro;309
+2015;Pistola;dezembro;252
+2015;Pistola;novembro;282
+2015;Pistola;outubro;288
+2015;Pistola;setembro;295
+2015;Pistola;agosto;331
+2015;Pistola;julho;295
+2015;Pistola;junho;286
+2015;Pistola;maio;299
+2015;Pistola;abril;290
+2015;Pistola;março;310
+2015;Pistola;fevereiro;298
+2015;Pistola;janeiro;336
+2015;Outros;dezembro;5
+2015;Outros;novembro;11
+2015;Outros;outubro;5
+2015;Outros;setembro;5
+2015;Outros;agosto;8
+2015;Outros;julho;3
+2015;Outros;junho;1
+2015;Outros;maio;13
+2015;Outros;abril;7
+2015;Outros;março;9
+2015;Outros;fevereiro;10
+2015;Outros;janeiro;10
+2015;Metralhadora;dezembro;2
+2015;Metralhadora;novembro;1
+2015;Metralhadora;outubro;4
+2015;Metralhadora;setembro;2
+2015;Metralhadora;agosto;4
+2015;Metralhadora;julho;3
+2015;Metralhadora;junho;1
+2015;Metralhadora;maio;4
+2015;Metralhadora;abril;6
+2015;Metralhadora;março;1
+2015;Metralhadora;fevereiro;7
+2015;Metralhadora;janeiro;1
+2015;Garruchão;dezembro;3
+2015;Garruchão;novembro;2
+2015;Garruchão;outubro;2
+2015;Garruchão;agosto;1
+2015;Garruchão;julho;2
+2015;Garruchão;maio;1
+2015;Garruchão;abril;4
+2015;Garruchão;fevereiro;1
+2015;Garrucha;dezembro;9
+2015;Garrucha;novembro;6
+2015;Garrucha;outubro;11
+2015;Garrucha;setembro;7
+2015;Garrucha;agosto;7
+2015;Garrucha;julho;14
+2015;Garrucha;junho;6
+2015;Garrucha;maio;9
+2015;Garrucha;abril;14
+2015;Garrucha;março;13
+2015;Garrucha;fevereiro;18
+2015;Garrucha;janeiro;15
+2015;Fuzil;dezembro;23
+2015;Fuzil;novembro;29
+2015;Fuzil;outubro;21
+2015;Fuzil;setembro;27
+2015;Fuzil;agosto;26
+2015;Fuzil;julho;15
+2015;Fuzil;junho;29
+2015;Fuzil;maio;22
+2015;Fuzil;abril;27
+2015;Fuzil;março;38
+2015;Fuzil;fevereiro;38
+2015;Fuzil;janeiro;49
+2015;Espingarda;dezembro;70
+2015;Espingarda;novembro;47
+2015;Espingarda;outubro;69
+2015;Espingarda;setembro;77
+2015;Espingarda;agosto;95
+2015;Espingarda;julho;55
+2015;Espingarda;junho;75
+2015;Espingarda;maio;83
+2015;Espingarda;abril;46
+2015;Espingarda;março;70
+2015;Espingarda;fevereiro;59
+2015;Espingarda;janeiro;71
+2015;Carabina;dezembro;9
+2015;Carabina;novembro;6
+2015;Carabina;outubro;10
+2015;Carabina;setembro;5
+2015;Carabina;agosto;6
+2015;Carabina;julho;10
+2015;Carabina;junho;7
+2015;Carabina;maio;13
+2015;Carabina;abril;10
+2015;Carabina;março;12
+2015;Carabina;fevereiro;4
+2015;Carabina;janeiro;9
+2015;Arma de Fabricação Caseira;dezembro;6
+2015;Arma de Fabricação Caseira;novembro;4
+2015;Arma de Fabricação Caseira;outubro;13
+2015;Arma de Fabricação Caseira;setembro;14
+2015;Arma de Fabricação Caseira;agosto;17
+2015;Arma de Fabricação Caseira;julho;8
+2015;Arma de Fabricação Caseira;junho;17
+2015;Arma de Fabricação Caseira;maio;15
+2015;Arma de Fabricação Caseira;abril;14
+2015;Arma de Fabricação Caseira;março;7
+2015;Arma de Fabricação Caseira;fevereiro;9
+2015;Arma de Fabricação Caseira;janeiro;4
+2016;Submetralhadora;dezembro;5
+2016;Submetralhadora;novembro;3
+2016;Submetralhadora;outubro;4
+2016;Submetralhadora;setembro;6
+2016;Submetralhadora;agosto;1
+2016;Submetralhadora;julho;7
+2016;Submetralhadora;junho;5
+2016;Submetralhadora;maio;5
+2016;Submetralhadora;abril;4
+2016;Submetralhadora;março;4
+2016;Submetralhadora;fevereiro;5
+2016;Submetralhadora;janeiro;9
+2016;Revólver;dezembro;313
+2016;Revólver;novembro;291
+2016;Revólver;outubro;281
+2016;Revólver;setembro;262
+2016;Revólver;agosto;296
+2016;Revólver;julho;281
+2016;Revólver;junho;319
+2016;Revólver;maio;307
+2016;Revólver;abril;347
+2016;Revólver;março;321
+2016;Revólver;fevereiro;319
+2016;Revólver;janeiro;276
+2016;Pistola;dezembro;346
+2016;Pistola;novembro;320
+2016;Pistola;outubro;285
+2016;Pistola;setembro;292
+2016;Pistola;agosto;266
+2016;Pistola;julho;311
+2016;Pistola;junho;295
+2016;Pistola;maio;373
+2016;Pistola;abril;321
+2016;Pistola;março;406
+2016;Pistola;fevereiro;308
+2016;Pistola;janeiro;312
+2016;Outros;dezembro;4
+2016;Outros;novembro;11
+2016;Outros;outubro;7
+2016;Outros;setembro;3
+2016;Outros;agosto;4
+2016;Outros;julho;6
+2016;Outros;junho;8
+2016;Outros;maio;7
+2016;Outros;abril;8
+2016;Outros;março;11
+2016;Outros;fevereiro;7
+2016;Outros;janeiro;2
+2016;Metralhadora;dezembro;2
+2016;Metralhadora;novembro;5
+2016;Metralhadora;agosto;1
+2016;Metralhadora;julho;1
+2016;Metralhadora;maio;3
+2016;Metralhadora;abril;1
+2016;Metralhadora;março;4
+2016;Metralhadora;fevereiro;3
+2016;Metralhadora;janeiro;3
+2016;Garruchão;outubro;2
+2016;Garruchão;setembro;1
+2016;Garruchão;julho;1
+2016;Garrucha;dezembro;12
+2016;Garrucha;novembro;8
+2016;Garrucha;outubro;6
+2016;Garrucha;setembro;10
+2016;Garrucha;agosto;7
+2016;Garrucha;julho;7
+2016;Garrucha;junho;11
+2016;Garrucha;maio;4
+2016;Garrucha;abril;12
+2016;Garrucha;março;12
+2016;Garrucha;fevereiro;13
+2016;Garrucha;janeiro;9
+2016;Fuzil;dezembro;43
+2016;Fuzil;novembro;51
+2016;Fuzil;outubro;43
+2016;Fuzil;setembro;36
+2016;Fuzil;agosto;30
+2016;Fuzil;julho;22
+2016;Fuzil;junho;29
+2016;Fuzil;maio;24
+2016;Fuzil;abril;17
+2016;Fuzil;março;24
+2016;Fuzil;fevereiro;24
+2016;Fuzil;janeiro;28
+2016;Espingarda;dezembro;64
+2016;Espingarda;novembro;48
+2016;Espingarda;outubro;70
+2016;Espingarda;setembro;58
+2016;Espingarda;agosto;39
+2016;Espingarda;julho;54
+2016;Espingarda;junho;61
+2016;Espingarda;maio;64
+2016;Espingarda;abril;60
+2016;Espingarda;março;63
+2016;Espingarda;fevereiro;72
+2016;Espingarda;janeiro;59
+2016;Carabina;dezembro;14
+2016;Carabina;novembro;3
+2016;Carabina;outubro;4
+2016;Carabina;setembro;6
+2016;Carabina;agosto;8
+2016;Carabina;julho;9
+2016;Carabina;junho;10
+2016;Carabina;maio;12
+2016;Carabina;abril;12
+2016;Carabina;março;8
+2016;Carabina;fevereiro;12
+2016;Carabina;janeiro;5
+2016;Arma de Fabricação Caseira;dezembro;22
+2016;Arma de Fabricação Caseira;novembro;5
+2016;Arma de Fabricação Caseira;outubro;13
+2016;Arma de Fabricação Caseira;setembro;9
+2016;Arma de Fabricação Caseira;agosto;7
+2016;Arma de Fabricação Caseira;julho;3
+2016;Arma de Fabricação Caseira;junho;4
+2016;Arma de Fabricação Caseira;maio;7
+2016;Arma de Fabricação Caseira;abril;4
+2016;Arma de Fabricação Caseira;março;3
+2016;Arma de Fabricação Caseira;fevereiro;5
+2016;Arma de Fabricação Caseira;janeiro;24
+2017;Submetralhadora;março;6
+2017;Submetralhadora;fevereiro;3
+2017;Submetralhadora;janeiro;4
+2017;Revólver;março;316
+2017;Revólver;fevereiro;242
+2017;Revólver;janeiro;288
+2017;Pistola;março;342
+2017;Pistola;fevereiro;234
+2017;Pistola;janeiro;318
+2017;Outros;março;5
+2017;Outros;fevereiro;5
+2017;Outros;janeiro;6
+2017;Metralhadora;fevereiro;3
+2017;Metralhadora;janeiro;4
+2017;Garruchão;março;2
+2017;Garruchão;fevereiro;1
+2017;Garrucha;março;6
+2017;Garrucha;fevereiro;7
+2017;Garrucha;janeiro;13
+2017;Fuzil;março;41
+2017;Fuzil;fevereiro;33
+2017;Fuzil;janeiro;45
+2017;Espingarda;março;40
+2017;Espingarda;fevereiro;33
+2017;Espingarda;janeiro;59
+2017;Carabina;março;4
+2017;Carabina;fevereiro;4
+2017;Carabina;janeiro;14
+2017;Arma de Fabricação Caseira;março;7
+2017;Arma de Fabricação Caseira;fevereiro;4
+2017;Arma de Fabricação Caseira;janeiro;2

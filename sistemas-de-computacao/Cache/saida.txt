@@ -1,0 +1,124 @@
+Executando Algoritmo: lfu
+
+Passo: 0
+Elemento lido: A
+Estado atual: A
+
+Passo: 1
+Elemento lido: D
+Estado atual: A | D
+
+Passo: 2
+Elemento lido: B
+Estado atual: A | D | B
+
+Passo: 3
+Elemento lido: A
+Estado atual: A | D | B
+
+Passo: 4
+Elemento lido: C
+Estado atual: A | D | B | C
+
+Passo: 5
+Elemento lido: F
+Estado atual: A | F | B | C
+
+Passo: 6
+Elemento lido: A
+Estado atual: A | F | B | C
+
+Passo: 7
+Elemento lido: D
+Estado atual: A | F | D | C
+
+Passo: 8
+Elemento lido: B
+Estado atual: A | F | D | B
+
+Passo: 9
+Elemento lido: A
+Estado atual: A | F | D | B
+
+Passo: 10
+Elemento lido: C
+Estado atual: A | C | D | B
+
+Passo: 11
+Elemento lido: F
+Estado atual: A | C | F | B
+
+Passo: 12
+Elemento lido: A
+Estado atual: A | C | F | B
+
+Passo: 13
+Elemento lido: D
+Estado atual: A | C | F | D
+
+Passo: 14
+Elemento lido: B
+Estado atual: A | B | F | D
+
+Passo: 15
+Elemento lido: A
+Estado atual: A | B | F | D
+
+Passo: 16
+Elemento lido: C
+Estado atual: A | B | C | D
+
+Passo: 17
+Elemento lido: F
+Estado atual: A | B | C | F
+
+Passo: 18
+Elemento lido: A
+Estado atual: A | B | C | F
+
+Passo: 19
+Elemento lido: D
+Estado atual: A | D | C | F
+
+Passo: 20
+Elemento lido: B
+Estado atual: A | D | B | F
+
+Passo: 21
+Elemento lido: A
+Estado atual: A | D | B | F
+
+Passo: 22
+Elemento lido: C
+Estado atual: A | D | B | C
+
+Passo: 23
+Elemento lido: F
+Estado atual: A | F | B | C
+
+Passo: 24
+Elemento lido: A
+Estado atual: A | F | B | C
+
+Passo: 25
+Elemento lido: D
+Estado atual: A | F | D | C
+
+Passo: 26
+Elemento lido: B
+Estado atual: A | F | D | B
+
+Passo: 27
+Elemento lido: A
+Estado atual: A | F | D | B
+
+Passo: 28
+Elemento lido: C
+Estado atual: A | C | D | B
+
+Passo: 29
+Elemento lido: F
+Estado atual: A | C | F | B
+
+Taxa de acertos: 30.00%
+Taxa de faltas: 56.67%

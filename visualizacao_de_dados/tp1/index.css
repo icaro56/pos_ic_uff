@@ -1,0 +1,55 @@
+.zoom {
+    fill: none;
+    pointer-events: all;
+}
+
+#mainDiv-chart-area>g>g>rect {
+    fill: steelblue;
+}
+
+.text-bar {
+    fill: white;
+    font: 10px sans-serif;
+    text-anchor: middle;
+}
+
+#mainDiv-chart-area>g>text {
+    fill: black;
+    font: 15px sans-serif;
+    text-anchor: middle;
+}
+
+#mainDiv2-chart-area>g>g>rect {
+    fill: steelblue;
+}
+
+.text-bar {
+    fill: white;
+    font: 10px sans-serif;
+    text-anchor: middle;
+}
+
+#mainDiv2-chart-area>g>text {
+    fill: black;
+    font: 12px sans-serif;
+    text-anchor: middle;
+}
+
+.xAxisLabel, .yAxisLabel {
+    fill: black;
+    font: 16px sans-serif;
+    text-anchor: middle;
+    font-weight: bold;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.sel-line {
+  fill: none;
+  stroke: red;
+  stroke-width: 3.5px;
+}

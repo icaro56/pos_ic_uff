@@ -1,0 +1,149 @@
+RISP;AISP (BPM);CISP (DP);Nome DP;Município;Unidade Territorial
+1;5;1;Praça Mauá;Rio de Janeiro;Centro (Parte)
+1;5;4;Praça da República;Rio de Janeiro;Centro (Parte), Gamboa, Santo Cristo e Saúde
+1;5;5;Mem de Sá;Rio de Janeiro;Centro (Parte), Lapa e Paquetá
+1;4;6;Cidade nova;Rio de Janeiro;Catumbi, Cidade Nova, Estácio, Rio Comprido e Centro (parte)
+1;5;7;Santa Tereza;Rio de Janeiro;Santa Teresa
+1;2;9;Catete;Rio de Janeiro;Catete, Cosme Velho, Flamengo, Glória e Laranjeiras
+1;2;10;Botafogo;Rio de Janeiro;Botafogo, Humaitá e Urca
+1;23;11;Rocinha;Rio de Janeiro;Rocinha
+1;19;12;Copacabana;Rio de Janeiro;Copacabana (Parte) e Leme
+1;19;13;Ipanema;Rio de Janeiro;Copacabana (Parte)
+1;23;14;Leblon;Rio de Janeiro;Ipanema e Leblon
+1;23;15;Gávea;Rio de Janeiro;Gávea, Jardim Botânico, Lagoa, São Conrado e Vidigal
+2;31;16;Barra da Tijuca;Rio de Janeiro;Barra da Tijuca, Itanhangá, Joá
+1;4;17;São Cristóvão;Rio de Janeiro;Caju, Mangueira, São Cristóvão e Vasco da Gama
+1;4;18;Praça da Bandeira;Rio de Janeiro;Maracanã, Praça da Bandeira e Tijuca (parte)
+1;6;19;Tijuca;Rio de Janeiro;Alto da Boa Vista e Tijuca (Parte)
+1;6;20;Grajaú;Rio de Janeiro;Andaraí, Grajaú e Vila Isabel
+1;22;21;Bonsucesso;Rio de Janeiro;Benfica, Bonsucesso, Higienópolis, Manguinhos, Maré e Ramos
+1;16;22;Penha;Rio de Janeiro;Brás de Pina (Parte), Olaria, Penha e Penha Circular (Parte)
+1;3;23;Meier;Rio de Janeiro;Cachambi e Méier
+1;3;24;Piedade;Rio de Janeiro;Abolição, Encantado, Piedade e Pilares
+1;3;25;Engenho novo;Rio de Janeiro;Engenho Novo, Jacaré, Jacarezinho, Riachuelo, Rocha, Sampaio e São Francisco Xavier
+1;3;26;Todos os Santos;Rio de Janeiro;Água Santa, Engenho de Dentro, Lins de Vasconcelos e Todos os Santos
+2;41;27;Vicente de Carvalho;Rio de Janeiro;Colégio (Parte), Irajá, Vicente de Carvalho, Vila Kosmos, Vila da Penha e Vista Alegre
+2;9;28;Campinho;Rio de Janeiro;Campinho, Cascadura, Praça Seca, Quintino Bocaiúva e Vila Valqueire
+2;9;29;Madureira;Rio de Janeiro;Cavalcanti, Engenheiro Leal, Madureira, Turiaçu e Vaz Lobo
+2;9;30;Marechal Hermes;Rio de Janeiro;Bento Ribeiro, Marechal Hermes e Oswaldo Cruz
+2;41;31;Ricardo Albuquerque;Rio de Janeiro;Anchieta, Guadalupe, Parque Anchieta e Ricardo de Albuquerque
+2;18;32;Taquara;Rio de Janeiro;Anil, Cidade de Deus, Curicica, Gardênia Azul, Jacarepaguá e Taquara
+2;14;33;Realengo;Rio de Janeiro;Campo dos Afonsos, Deodoro, Jardim Sulacap, Magalhães Bastos, Realengo e Vila Militar
+2;14;34;Bangu;Rio de Janeiro;Bangu, Gericinó, Padre Miguel e Senador Camará
+2;40;35;Campo Grande;Rio de Janeiro;Campo Grande, Cosmos, Inhoaíba, Santíssimo e Senador Vasconcelos
+2;27;36;Santa Cruz;Rio de Janeiro;Paciência e Santa Cruz
+1;17;37;Ilha do Governador;Rio de Janeiro;Bancários, Cacuia, Cidade Universitária, Cocotá, Freguesia, Galeão, Jardim Carioca, Jardim Guanabara, Moneró, Pitangueiras, Portuguesa, Praia da Bandeira, Ribeira, Tauá e Zumbi
+1;16;38;Braz de Pina;Rio de Janeiro;Brás de Pina (Parte), Cordovil, Jardim América, Parada de Lucas,Penha Circular (Parte) e Vigário Geral
+2;41;39;Pavuna;Rio de Janeiro;Acari, Barros Filho, Costa Barros, Parque Colúmbia e Pavuna
+2;9;40;Honório Gurgel;Rio de Janeiro;Coelho Neto, Colégio (Parte), Honório Gurgel e Rocha Miranda
+2;18;41;Tanque;Rio de Janeiro;Freguesia (Jacarepaguá), Pechincha e Tanque
+2;31;42;Recreio;Rio de Janeiro;Recreio dos Bandeirantes, Barra de Guaratiba, Camorim, Grumari, Vargem Grande e Vargem Pequena
+2;27;43;Pedra de Guaratiba;Rio de Janeiro;Guaratiba, Pedra de Guaratiba e Sepetiba
+1;3;44;Inhaúma;Rio de Janeiro;Del Castilho, Engenho da Rainha, Inhaúma, Maria da Graça e Tomás Coelho
+1;16;45;Alemão;Rio de Janeiro;Complexo do Alemão
+3;24;48;Seropédica;Seropédica;Seropédica
+3;24;50;Itaguaí;Itaguaí;Itaguaí e Ibituporanga
+3;24;51;Paracambí;Paracambi;Paracambi
+3;20;52;Nova Iguaçu;Nova Iguaçu;Centro
+3;20;53;Mesquita;Mesquita;Mesquita, Chatuba e Banco de Areia
+3;39;54;Belford Roxo;Belford Roxo;Areia Branca, Jardim Redentor, Parque São José, Nova Aurora e Lote XV
+3;24;55;Queimados;Queimados;Centro, Norte, Sul. Leste, Oeste e Nordeste
+3;20;56;Comendador Soares;Nova Iguaçu;Comendador Soares, Cabuçú e Km32
+3;20;57;Nilópolis;Nilópolis;Nilópolis e Olinda
+3;20;58;Posse;Nova Iguaçu;Posse, Austin, Miguel Couto, Vila de Cava e Tinguá
+3;15;59;Duque de Caxias;Duque de Caxias;Duque de Caxias (Centro)
+3;15;60;Campos Elíseos;Duque de Caxias;Campos Elyseos
+3;15;61;Xerém;Duque de Caxias;Xerém
+3;15;62;Imbariê;Duque de Caxias;Imbariê
+3;24;63;Japerí;Japeri;Japeri, Engenheiro Pedreira, Marajoara, Pedra Lisa e Rio D`Ouro
+3;21;64;Vilar dos Teles;São João de Meriti;São João de Meriti, Coelho da Rocha e São Mateus
+3;34;65;Magé;Magé;Magé, Santo Aleixo e Suruí
+3;34;66;Piabetá;Magé;Inhomirim e Guia de Copaíba
+3;34;67;Guapimirim;Guapimirim;Guapimirim
+4;35;70;Tanguá;Tanguá;Tanguá
+4;35;71;Itaboraí;Itaboraí;Itaboraí, Cabuçú, Itambí, Porto das Caixas e Sambaetiba
+4;7;72;São Gonçalo;São Gonçalo;São Gonçalo
+4;7;73;Neves;São Gonçalo;Neves
+4;7;74;Alcantara;São Gonçalo;Monjolo
+4;7;75;Rio do Ouro;São Gonçalo;Ipiiba e Sete Pontes
+4;12;76;Niterói - Centro;Niterói;Centro, Ponta da Areia, Ilha da Conceição, São Lourenço, Fátima, Morro do Estado, Ingá, São Domingos, Gragoatá e Boa Viagem
+4;12;77;Icaraí;Niterói;Santa Rosa, Icaraí, Vital Brasil, Pé Pequeno, Viradouro e Cubango
+4;12;78;Fonseca;Niterói;Fonseca, Viçoso Jardim, Caramujo, Baldeador, Santa Bárbara, Tenente Jardim, Engenhoca, Santana e Barreto
+4;12;79;Jurujuba;Niterói;Jurujuba, Charitas, São Francisco, Cachoeiras, Maceió, Largo da Batalha, Ititioca, Badu, Sapê, Matapaca, Vila Progresso, Muriqui, Maria Paula e Cantagalo
+4;12;81;Itaipú;Niterói;Itaipu, Camboinhas, Itacoatiara, Piratininga, Cafubá, Jacaré, Rio do Ouro, Engenho do Mato, Várzea das Moças e Jardim Imbuí
+4;12;82;Maricá;Maricá;Maricá e Inoã
+5;10;88;Barra do Piraí;Barra do Piraí;Barra do Piraí, Dorandia, Ipiabas, São José do Turvo e Vargem Alegre
+5;37;89;Resende;Resende;Resende, Engenheiro Passos, Agulhas Negras, Pedra Selada e Fumaça
+5;28;90;Barra Mansa;Barra Mansa;Antonio Rocha, Floriano, Nossa Senhora do Amparo, Rialto e Regiões Administrativas I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV
+5;10;91;Valença;Valença;Valença, Barão de Juparana, Conservatória, Parapeúna, Pentagna e Santa Isabel do Rio Preto
+5;10;92;Rio das Flores;Rio das Flores;Rio das Flores, Manuel Duarte, Abarracamento e Taboas
+5;28;93;Volta Redonda;Volta Redonda;Volta Redonda
+5;10;94;Piraí;Piraí;Piraí, Arrozal, Monumento e Santanésia
+5;10;95;Vassouras;Vassouras;Vassouras, Andrade Pinto, São Sebastião dos Ferreiros e Sebastião de Lacerda
+5;10;96;Miguel Pereira;Miguel Pereira;Miguel Pereira, Governador Portela e Conrado
+5;10;96;Miguel Pereira;Paty do Alferes;Paty do Alferes e Avelar
+5;10;97;Mendes;Mendes;Mendes
+5;10;98;Paulo de Frontin;Engenheiro Paulo de Frontin;Engenheiro Paulo de Frontin e Sacra Família do Tinguá
+5;37;99;Itatiaia;Itatiaia;Itatiaia
+5;37;100;Porto Real;Porto Real;Porto Real
+5;37;100;Porto Real;Quatis;Quatis, Falcão e Ribeirão de São Joaquim
+5;28;101;Pinheiral;Pinheiral;Pinheiral
+7;30;104;São J. Rio Preto;São José do Vale do Rio Preto;São José do Vale do Rio Preto
+7;26;105;Petrópolis;Petrópolis;Petrópolis e Cascatinha
+7;26;106;Itaipava;Petrópolis;Itaipava, Pedro do Rio e Posse
+7;38;107;Paraíba do Sul;Paraíba do Sul;Paraíba do Sul, Werneck, Salutaris e Inconfidência
+7;38;108;Três Rios;Três Rios;Três Rios e Bemposta
+7;38;108;Três Rios;Comendador Levy Gasparian;Comendador Levy Gasparian e Afonso Arinos
+7;38;108;Três Rios;Areal;Areal
+7;38;109;Sapucaia;Sapucaia;Sapucaia, Anta, Pião, Nossa Senhora Aparecida e Jamapara
+7;30;110;Teresópolis;Teresópolis;Teresópolis, Vale do Bonsucesso e Vale do Paquequer
+7;30;111;Sumidouro;Sumidouro;Sumidouro
+7;30;112;Carmo;Carmo;Carmo, Córrego da Prata e Porto Velho do Cunha
+4;25;118;Araruama;Araruama;Araruama, Morro Grande e São Vicente de Paula
+4;35;119;Rio Bonito;Rio Bonito;Rio Bonito e Boa Esperança
+4;35;120;Silva Jardim;Silva Jardim;Silva Jardim, Aldeia Velha, Correntezas e Gaviões
+6;32;121;Casimiro de abreu;Casimiro de Abreu;Casimiro de Abreu, Professor Souza, Barra de São João e Rio Dourado
+6;32;122;Conceição de Macabú;Conceição de Macabú;Conceição de Macabú e Macabuzinho
+6;32;123;Macaé;Macaé;Centro, Cabiúnas, Barra de Macaé, Aeroporto e Imboassica
+4;25;124;Saquarema;Saquarema;Saquarema, Bacaxá e Sampaio Correia
+4;25;125;São Pedro da Aldeia;São Pedro da Aldeia;São Pedro da Aldeia
+4;25;126;Cabo Frio;Cabo Frio;Cabo Frio e Tamoios
+4;25;127;Búzios;Armação dos Búzios;Armação dos Búzios
+6;32;128;Rio das Ostras;Rio das Ostras;Rio das Ostras
+4;25;129;Iguaba;Iguaba Grande;Iguaba Grande
+6;32;130;Quissamã;Quissamã;Quissamã
+6;32;130;Quissamã;Carapebus;Centro, UB-S, Rodagem, Carapebus e Praia de Carapebus
+4;25;132;Arraial do Cabo;Arraial do Cabo;Arraial do Cabo
+6;8;134;Campos;Campos dos Goytacazes;Campos dos Goytacazes (Primeiro Subdistrito, Segundo Subdistrito e Quarto Subdistrito), Ibitioca, Dores de Macabu, Morangaba, Mussurepe, Serrinha, Santo Amaro de Campos, São Sebastião de Campos e Tocos
+6;36;135;Itaocara;Itaocara;Itaocara, Portela, Batatal, Laranjais, Jaguarembe e Estrada Nova
+6;36;136;Santo Antônio de Pádua;Santo Antônio de Pádua;Santo Antônio de Pádua, Campelo, Paraoquena, Monte Alegre, Ibitiguaçú, Santa Cruz, Baltazar, Marangatú e São Pedro de Alcântara
+6;36;136;Santo Antônio de Pádua;Aperibé;Aperibé
+6;36;137;Miracema;Miracema;Miracema, Venda das Flores e Paraíso do Tobias
+6;29;138;Lajes de Muriaré;Laje do Muriaé;Laje do Muriaé
+6;29;139;Porciúncula;Porciúncula;Porciúncula, Purilândia e Santa Clara
+6;29;140;Natividade;Natividade;Natividade, Ourania e Bom Jesus do Querendo
+6;29;140;Natividade;Varre-Sai;Varre-Sai
+6;8;141;São Fidelis;São Fidélis;São Fidelis, Cambiasca, Colonia, Ipuca e Pureza
+6;36;142;Cambucí;Cambuci;Cambuci, Três Irmãos, Funil, Monte Verde e São João do Paraíso
+6;29;143;Itaperuna;Itaperuna;Itaperuna, Boaventura, Nossa Senhora da Penha, Itajara, Retiro do Muriaé, Raposo e Comendador Venâncio
+6;29;143;Itaperuna;São José de Ubá;São José de Ubá
+6;29;144;Bom Jesus do Itabapoana;Bom Jesus do Itabapoana;Bom Jesus do Itabapoana, Carabuçú, Calheiros, Pirapetinga de Bom Jesus, Rosal e Serrinha
+6;8;145;São João da Barra;São João da Barra;Barcelos, Atafona, São João da Barra, Grussaí, Cajueiro e Pipeiras
+6;8;146;Guarus;Campos dos Goytacazes;Campos dos Goytacazes (Terceiro Subdistrito), Santa Maria, Morro do Coco, Santo Eduardo, Travessão e Vila Nova de Campos
+6;8;147;São Francisco de Itabapoana;São Francisco de Itabapoana;São Francisco de Itabapoana, Maniva e Barra Seca
+6;29;148;Italva;Italva;Italva
+6;29;148;Italva;Cardoso Moreira;Cardoso Moreira e São Joaquim
+7;11;151;Nova Friburgo;Nova Friburgo;Nova Friburgo, São Pedro da Serra, Lumiar, Amparo, Riograndina, Conselheiro Paulino e Campo do Coelho
+7;11;152;Duas Barras;Duas Barras;Duas Barras e Monnerat
+7;11;153;Cantagalo;Cantagalo;Cantagalo, Santa Rita da Floresta, Boa Sorte, Euclidelândia e São Sebastião do Paraíba
+7;11;154;Cordeiro;Cordeiro;Cordeiro
+7;11;154;Cordeiro;Macuco;Macuco
+6;36;155;São Sebastião do Alto;São Sebastião do Alto;São Sebastião do Alto, Valão do Barro e Ipituna
+7;11;156;Santa Maria Madalena;Santa Maria Madalena;Santa Maria Madalena, Doutor Loreti, Renascença, Santo Antônio do Imbé, Sossego e Triunfo
+7;11;157;Trajano de Morais;Trajano de Morais;Trajano de Morais, Doutor Elias, Sodrelândia, Vila da Grama e Visconde de Imbé
+7;11;158;Bom Jardim;Bom Jardim;Bom Jardim, Banquete, Barra Alegre e São José do Ribeirão
+4;35;159;Cachoeira de Macacú;Cachoeiras de Macacu;Cachoeiras de Macacu, Japuíba e Subaio
+5;33;165;Mangaratiba;Mangaratiba;Mangaratiba, Conceição de Jacareí, Vila Muriquí, Itacuruçá
+5;33;166;Angra dos Reis;Angra dos Reis;Angra dos Reis, Jacuecanga, Cunhambebe, Mambucaba, Abraão e Praia de Araçatiba
+5;33;167;Paraty;Paraty;Parati, Parati-Mirim e Tarituba
+5;33;168;Rio Claro;Rio Claro;Rio Claro, Getulândia, Lídice, Passa Três e São João Marcos

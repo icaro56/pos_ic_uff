@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1">
+    
+    <title>Criminality</title>
+    
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="lib/bootstrap/css/simple-sidebar.css" rel="stylesheet">
+    <link href="lib/bootstrap-multiselect/css/bootstrap-multiselect.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="index.css">
+    
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBqxuHWHxg1h9TE596UUd4fLHAA0C3e2DA"></script>
+    
+</head>
+<body>
+    <div id= "wrapper">
+        
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="#" id="hide-menu">
+                        Esconder
+                    </a>
+                </li>
+                <li>
+                    <a href="#" id="config-menu">Settings</a>
+                </li>
+                <li>
+                    <a href="#">Search relations</a>
+                </li>
+                <li>
+                    <a href="#">About</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+        
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="btn-toolbar" role="toolbar">
+                            <div class="btn-group" role="group" >
+                                <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Menu</a>
+                            </div>
+                        </div>
+                        <br>
+                        <div id="container">
+                            <div id="left"></div>
+                            
+                            <div id="center">
+                                <div class="row">
+                                    <span class="control-label col-md-2"><strong>Zoom: </strong></span>
+                                    <label class="radio-inline">
+                                      <input type="radio" name="zoomOptMain" checked=true id="zoomOptMain_0">Large area
+                                    </label>
+                                    <label class="radio-inline">
+                                      <input type="radio" name="zoomOptMain" id="zoomOptMain_2">Battalion
+                                    </label>
+                                    <label class="radio-inline">
+                                      <input type="radio" name="zoomOptMain" id="zoomOptMain_1">County
+                                    </label>
+                                    <label class="radio-inline">
+                                      <input type="radio" name="zoomOptMain" id="zoomOptMain_3">Police station
+                                    </label>
+                                </div>
+                                <div class="row">
+                                    <span class="control-label col-md-2"><strong>Event type: </strong></span>
+                                    <label class="radio-inline">
+                                      <input type="radio" name="dataTypeOpt" checked=true value="0">Crimes
+                                    </label>
+                                    <label class="radio-inline">
+                                      <input type="radio" name="dataTypeOpt" value="1">Occurrence Records
+                                    </label>
+                                    <label class="radio-inline">
+                                      <input type="radio" name="dataTypeOpt" value="2">Police Action
+                                    </label>
+                                </div>
+                                <div class="row" id="quantificationDiv" style="visibility:hidden">
+                                    <span class="control-label col-md-2"><strong>Quantification: </strong></span>
+                                    <label class="radio-inline">
+                                      <input type="radio" name="quantificationOpt" checked=true value="0">Absolute (simple counting)
+                                    </label>
+                                    <label class="radio-inline">
+                                      <input type="radio" name="quantificationOpt" value="1">Relative (divided by population)
+                                    </label>
+                                </div>
+                                <br />
+                                <div id="map"></div>
+                            </div>
+                            
+                            <div id="right">
+                                <div id="legendDiv">
+                                    <p><strong>Quantity</strong></p>
+                                </div>
+                                <div id="infoMapDiv">
+                                </div>
+                            </div>
+                        </div><br /><br /><br /><br /><br /><br /><br />
+                        <div id="containerGraphs">
+                            <div id="leftGraph">
+                                <div id ="mainDivCrimes"></div>
+                                <div id ="mainDivReactions"></div>
+                                <div id ="mainDivTotals"></div>
+                            </div>
+                            <div id="rightGraph">
+                                <div id ="barDivCrimes"></div>
+                                <div id ="barDivReactions"></div>
+                                <div id ="barDivTotals"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+        
+        <!-- Janela de configuração -->
+        <div id="configWindow" class="modal fade">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title">Settings</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <div class="row">
+                                <span class="control-label col-md-3"><strong>Granularity: </strong></span>
+                                <label class="radio-inline">
+                                  <input type="radio" name="granOpt" checked=true id="grandOptMonth">Month
+                                </label>
+                                <!-- não temos como fazer estação porque não temos dia
+                                <label class="radio-inline">
+                                  <input type="radio" name="granOpt" id="grandOptSeason">Estação
+                                </label>
+                                -->
+                                <label class="radio-inline">
+                                  <input type="radio" name="granOpt" id="grandOptYear">Year
+                                </label>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="row">
+                                <span class="control-label col-md-3"><strong>Time Window: </strong></span>
+                                <label class="radio-inline">
+                                  <input type="radio" name="windowOpt" checked=true id="windowOptSpecific">Specific
+                                </label>
+                                <label class="radio-inline">
+                                  <input type="radio" name="windowOpt" id="windowOptPeriodic">Periodic
+                                </label>
+                                <div>
+                                    <div id="timeWindowContent"  class="form-group col-md-offset-1"> 
+                                        <!-- conteúdo automático entra aqui via código -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="row">
+                                <!--<span class="control-label col-md-3"><strong>Média na Série Temporal: </strong></span>-->
+                                
+                                    <div class='checkbox col-md-offset-1'><input type='checkbox' id='averageCheck' checked='checked'>Average Time Series</div>
+                                
+                            </div>
+                        </div>
+                        <!-- Não precisamos dessa opção na configuração porque já a temos na tela principal.
+                        <div class="form-group">
+                            <div class="row">
+                                <span class="control-label col-md-3"><strong>Zoom: </strong></span>
+                                <label class="radio-inline">
+                                  <input type="radio" name="zoomOpt" checked=true id="zoomOptUnity">Grandes áreas
+                                </label>
+                                <label class="radio-inline">
+                                  <input type="radio" name="zoomOpt" id="zoomOptCity">Município
+                                </label>
+                                <label class="radio-inline">
+                                  <input type="radio" name="zoomOpt" id="zoomOptBattalion">Batalhão
+                                </label>
+                                <label class="radio-inline">
+                                  <input type="radio" name="zoomOpt" id="zoomOptDelegacy">Delegacia
+                                </label>
+                            </div>
+                        </div> -->
+                        <div class="table-responsive">    
+                            <h4>Tabela de Pesos</h4>
+                            <table id="totalTable" class="table">
+                                <thead>
+                                  <tr>
+                                    <th>Total</th>
+                                    <th>Weight</th>
+                                    <th>See</th>
+                                  </tr>
+                                </thead>
+                                <tbody id="totalRowsContent">
+                                    <!-- conteúdo automático entra aqui via código -->
+                                </tbody>
+                            </table>
+                            
+                            <table id="policeReactionTable" class="table">
+                                <thead>
+                                  <tr>
+                                    <th>Police Reaction</th>
+                                    <th>Weight</th>
+                                    <th>See</th>
+                                  </tr>
+                                </thead>
+                                <tbody id="policeReactionRowsContent">
+                                    <!-- conteúdo automático entra aqui via código -->
+                                </tbody>
+                            </table>
+                            
+                            <table id="crimeTable" class="table">
+                                <thead>
+                                  <tr>
+                                    <th>Crime</th>
+                                    <th>Weight</th>
+                                    <th>See</th>
+                                  </tr>
+                                </thead>
+                                <tbody id="crimeRowsContent">
+                                    <!-- conteúdo automático entra aqui via código -->
+                                </tbody>
+                            </table>
+                        </div>
+                        <div>
+                            <p class="text-warning"><small>If you do not update, your changes will not load.</small></p>
+                        </div>
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                        <button type="button" class="btn btn-primary" id="configUpdateButton">Update</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="lib/jquery-1.12.4.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="lib/bootstrap-multiselect/js/bootstrap-multiselect.js"></script>
+    <script src="lib/bootbox.min.js"></script>
+    <script src="lib/d3.min.js"></script>
+    <script src="lib/colorbrewer.js"></script>
+    
+    <script src="src/visuff.js"></script>
+    <script src="src/seriescontrol.js"></script>
+    <script src="src/barscontrol.js"></script>
+    <script src="src/utils.js"></script>
+    <script src="src/files.js"></script>
+    <script src="src/dpmap.js"></script>
+    <script src="src/rispmap.js"></script>
+    <script src="src/populationmap.js"></script>
+    <script src="src/crimecontrol.js"></script>
+    <script src="src/gui.js"></script>
+    <script src="src/map.js"></script>
+    <script src="src/main.js"></script>
+</body>
+</html>
